@@ -1,0 +1,17 @@
+.alldata-table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  
+  }
+  
+  .tdthtd {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .trthtd:nth-child(even) {
+    /* background-color: #d8d6d6; */
+    background-color: #fbfafa;
+}
