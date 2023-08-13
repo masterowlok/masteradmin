@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start":"vite",
-    "dev": "vite",
+    "start":"vite preview --port 3000",
+    "dev": "vite preview --port 3000",
     "build": "vite build",
     "preview": "vite preview"
   },
